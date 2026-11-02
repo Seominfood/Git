@@ -1,2 +1,3 @@
 print("hello git!!")
-print("Thanks")
+print("thanks")
+print("hi")
